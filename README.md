@@ -46,12 +46,7 @@ C Programming • Microcontroller Basics *(in progress)*
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/zahraelshafey51/zahraelshafey51/blob/output/github-contribution-grid-snake.svg" />
-</p>
+ 
 
 ---
 

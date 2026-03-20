@@ -64,4 +64,4 @@ C Programming • Microcontroller Basics *(in progress)*
 
 ---
 
-✨ *Focused on growth. Building real skills every day.*
+ 

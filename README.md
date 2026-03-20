@@ -41,8 +41,8 @@ C Programming • Microcontroller Basics *(in progress)*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahraelshafey51&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahraelshafey51&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
@@ -50,15 +50,23 @@ C Programming • Microcontroller Basics *(in progress)*
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/zahraelshafey51/zahraelshafey51/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Contact
-- LinkedIn: (add your link)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zahra-elshafey-42aa5a371" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="mailto:zahraelshafey51@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 ---
 
 ✨ *Focused on growth. Building real skills every day.*
-
